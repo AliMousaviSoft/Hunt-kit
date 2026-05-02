@@ -3,3 +3,5 @@
 node_modules/
 .env
 target/
+.obsidian/*
+\!.obsidian/appearance.json
